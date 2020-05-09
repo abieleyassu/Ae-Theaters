@@ -26,14 +26,14 @@ public class TheatersRunner {
 
 			if (tryagain.equalsIgnoreCase("n")) {
 
-				System.out.println("Thank you for visiting AE theaters! Enjoy the movie!");
+				System.out.println("Thank you for visiting Dreamland theaters! Enjoy the movie!");
 				System.exit(1);
 			}
 		}
 
 		if (tryagain.equalsIgnoreCase("n")) {
 
-			System.out.println("Thank you for visiting AE theaters! Enjoy the movie!");
+			System.out.println("Thank you for visiting Dreamland theaters! Enjoy the movie!");
 			System.exit(1);
 		}
 
