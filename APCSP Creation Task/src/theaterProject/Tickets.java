@@ -32,7 +32,7 @@ public class Tickets {
 	public void tix() {
 
 		System.out.println(
-				"Welcome to AE Theaters! The Premier Theater Choice of Families Around the World for Over 60 Years!");
+				"Welcome to Dreamland Theaters! The Premier Theater Choice of Families Around the World for Over 60 Years!");
 
 		Scanner confirm = new Scanner(System.in);
 		System.out.println("Would you like to take a look at today's movies? (yes/no): ");
